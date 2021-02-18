@@ -590,6 +590,13 @@ input[type='checkbox'] {
 	background: #113448;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
 .spinner {
 	position: absolute;
 	top: 50%; /* centers the loading animation vertically one the screen */
