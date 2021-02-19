@@ -590,13 +590,6 @@ input[type='checkbox'] {
 	background: #113448;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 10%;
-}
-
 .spinner {
 	position: absolute;
 	top: 50%; /* centers the loading animation vertically one the screen */
@@ -777,7 +770,6 @@ input[type='checkbox'] {
 
 /*********************/
 /*    04. Header     */
-/*    marker1        */
 /*********************/
 .header {
 	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/116584159_2686992854849028_616001882249981399_n.jpg') center center no-repeat;
